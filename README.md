@@ -1,6 +1,6 @@
 # Simulador do restaurante universitario da UFPR em C
 
-Para executar o simulador, basta clonar o repositorio e executar o comando *make* na pasta raiz. Após isso, será gerado um executável chamado *ru_na_pandemia*. Para roda-lo, entre com o comando *./ru_na_pandemia*.
+Para executar o simulador em sua máquina (ou terminal) Linux, basta clonar o repositorio e executar o comando *make* na pasta raiz. Após isso, será gerado um executável chamado *ru_na_pandemia*. Para roda-lo, entre com o comando *./ru_na_pandemia*.
 
 
 
