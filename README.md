@@ -10,4 +10,4 @@ Para executar o simulador, basta clonar o repositorio e executar o comando *make
 
 
 
-*obs: bibliotecas .h desenvolvidas pelos professores André Ricardo Abed Gregio, Marcos Alexandre Castilho, Luis Carlos Erpen de Bona e Luiz Carlos Pessoa Albini. Toda a aplicação do projeto, com base nestas bibliotecas, foi desenvolvido por Fauze Henrique Bach Cubas.*
+*obs: bibliotecas .h desenvolvidas pelos professores André Ricardo Abed Gregio, Marcos Alexandre Castilho, Luis Carlos Erpen de Bona e Luiz Carlos Pessoa Albini. Toda a aplicação do projeto, incluindo os arquivos .c referentes às bibliotecas, foi desenvolvido por Fauze Henrique Bach Cubas.*
